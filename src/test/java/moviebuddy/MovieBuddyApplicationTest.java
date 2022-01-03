@@ -1,8 +1,8 @@
 package moviebuddy;
 
-import java.util.List;
+import moviebuddy.domain.Movie;
 
-import static org.junit.jupiter.api.Assertions.*;
+import java.util.List;
 
 /**
  * @author springrunner.kr@gmail
